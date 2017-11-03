@@ -1,0 +1,15 @@
+.backgroud{
+	margin: 30% auto;
+}
+
+.form{
+	width: 200px;
+	height: 300px;
+	margin: 0px auto;
+	background-color: cornflowerblue;
+	text-align: center;
+}
+
+.prompt{
+	text-align: center;
+}
